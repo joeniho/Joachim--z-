@@ -7,11 +7,17 @@ In today's healthcare market, clinical decision support systems have undergone a
  A clinical decision support system (CDSS) is a type of software that analyses a patient's data to assist a physician in making decisions. CDS (Clinical Decision Support) is for employees, patients, and other caregivers as well as physicians and nurses. Clinical decision support systems (cdss) are computer-based applications that analyse data in electronic health records (EHRs) to give cues and reminders to help health care practitioners apply evidence-based clinical recommendations at the point of
 treatment. 
 Any health information technology (HIT) system, procedure, or process that aims to provide:
+
 	The right information (evidence-based guidance, response to clinical need)
+
 	To the right people (entire care team – including the patient)
+
 	Through the right channels (e.g., EHR, mobile device, patient portal)
+
 	In the right intervention formats (e.g., order sets, flow-sheets, dashboards, patient lists)
+
 	At the right points in the workflow (for decision making or action)
+
 Healthcare organizations are quickly trying to apply these success keys to their care processes.
 According to the Agency for Healthcare Research and Quality, misdiagnoses account for 10-30% of clinical errors. A misdiagnosis can be caused by a variety of factors, ranging from supplier bias to unusual and rare illnesses. Sometimes it's as simple as the provider making a logical or judgmental error.
 Misdiagnosis is a major problem since the condition cannot be adequately treated until it is accurately diagnosed. The use of clinical decision support systems can drastically minimise these sorts of mistakes, resulting in better patient outcomes.
@@ -55,6 +61,7 @@ CDS tools are increasingly using artificial intelligence and machine learning to
 ## **References:**
 Martin Pusic, M Ansermino
 British Columbia Medical Journal 46 (5), 236-239, 2004
+
 Saini, P. (2019, December 10). clinical decision support system in healthcare image. Retrieved from https://www.google.com/amp/s/webmedy.com/blog/what-do-you-understand-by-clinical-decision-support-system/ 
 
 
