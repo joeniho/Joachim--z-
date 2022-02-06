@@ -60,9 +60,17 @@ Saini, P. (2019, December 10). clinical decision support system in healthcare im
 
 Berner, Eta S., ed. Clinical Decision Support Systems. New York, NY: Springer, 2007.
 "Decision support systems ." 26 July 2005. 17 Feb. 2009 .
+
+ (n.d.). Retrieved from https://images.app.goo.gl/WTi7r5s4S3BMG1xJ7. 
+
+ (n.d.). Retrieved from https://images.app.goo.gl/SRaaXYKeXYnKubmz5. 
+
 Peyman., Dehghani Soufi, Mahsa. Samad-Soltani, Taha. Shams Vahdati, Samad. Rezaei-Hachesu. Decision support system for triage management: A hybrid approach using rule-based reasoning and fuzzy logic. OCLC 1051933713
+
 “HL7 CDS Standards". HL7 CDS Working Group. Retrieved 25 June 2019
+
 SPIE. (2015). Tanveer Syeda-Mahmood Plenary Talk: The role of machine learning in clinical decision support. SPIE Newsroom. https://doi.org/10.1117/2.3201503.29 
+
 Wikimedia Foundation. (2021, September 19). Clinical decision support system. Wikipedia. Retrieved February 6, 2022, from https://en.m.wikipedia.org/wiki/Clinical_decision_support_system 
 
 Bresnick, J. (2019, December 18). Understanding the basics of Clinical Decision Support Systems. HealthITAnalytics. Retrieved February 6, 2022, from https://healthitanalytics.com/features/understanding-the-basics-of-clinical-decision-support-systems 
