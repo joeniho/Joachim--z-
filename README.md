@@ -55,8 +55,9 @@ CDS tools are increasingly using artificial intelligence and machine learning to
 ## **References:**
 Martin Pusic, M Ansermino
 British Columbia Medical Journal 46 (5), 236-239, 2004
-Webmedy.com
-(https://www.google.com/amp/s/webmedy.com/blog/what-do-you-understand-by-clinical-decision-support-system).
+Saini, P. (2019, December 10). clinical decision support system in healthcare image. Retrieved from https://www.google.com/amp/s/webmedy.com/blog/what-do-you-understand-by-clinical-decision-support-system/ 
+
+
 Berner, Eta S., ed. Clinical Decision Support Systems. New York, NY: Springer, 2007.
 "Decision support systems ." 26 July 2005. 17 Feb. 2009 .
 Peyman., Dehghani Soufi, Mahsa. Samad-Soltani, Taha. Shams Vahdati, Samad. Rezaei-Hachesu. Decision support system for triage management: A hybrid approach using rule-based reasoning and fuzzy logic. OCLC 1051933713
